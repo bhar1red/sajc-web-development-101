@@ -10,6 +10,6 @@ Classes occur every Monday, Wednesday and Friday 4:30 PM IST  in Microsoft Teams
   - [Home](https://bargavkondapu.com/sajc-web-development-101/)
   - [Syllabus](https://bargavkondapu.com/sajc-web-development-101/introduction/syllabus)
   - [Course Instructions](https://bargavkondapu.com/sajc-web-development-101/introduction/course-instructions)
-  - [GitHub Repo](https://github.com/bhar1red/sajc-web-development-101)
+  - [Course Repository](https://github.com/bhar1red/sajc-web-development-101)
 - Examples 
 - Assignments
