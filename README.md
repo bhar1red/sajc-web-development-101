@@ -1,4 +1,4 @@
-# Web Development 101 
+## Web Development 101 
 
 ### College: Sri Amogha Junior College  (SAJC), Hyderabad
 
