@@ -1,5 +1,3 @@
-# Web Development 101 
-
 ### College: Sri Amogha Junior College  (SAJC), Hyderabad
 
 ### Trainer: Bargav Kondapu
